@@ -6,14 +6,14 @@ I am a Software Engineering Major passionate about building systems of all kinds
 
 ---
 
-### 🏗️ What I'm Up To
-- 🔭 **Currently Working On:** fbs-standings, a full-stack app using Spring Boot, postgreSQL and ReactJS.
-- 🌱 **Learning:** Deepening my knowledge of **SQL**, **Reacts**, **Networks** and **System Design**.
-- 🥅 **Goals:** Securing a Summer 2026 SWE Internship and contributing to Open Source.
+### What I'm Up To
+- **Currently Working On:** fbs-standings, a full-stack app using Spring Boot, postgreSQL and ReactJS.
+- **Learning:** Deepening my knowledge of **SQL**, **Reacts**, **Networks** and **System Design**.
+- **Goals:** Securing a Summer 2026 SWE Internship and contributing to Open Source.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
@@ -24,13 +24,7 @@ I am a Software Engineering Major passionate about building systems of all kinds
 
 ---
 
-### 📊 My GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=notwilliam1&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notwilliam1&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 📂 Highlighted Projects
+### Highlighted Projects
 
 **[fbs-standings]** *Java, Spring Boot, PostgreSQL*
 - Currently Developing a full stack web application that allows users to see current standings of fbs football teams.
