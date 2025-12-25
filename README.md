@@ -13,17 +13,6 @@ I am a Software Engineering Major passionate about building systems of all kinds
 
 ---
 
-### Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Java, Python, HTML, CSS |
-| **Backend** | Spring Boot, PostgreSQL, REST APIs |
-| **Frontend** | React (Learning), JavaScript |
-| **Tools/DevOps** | Git, GitHub, Maven, Postman |
-
----
-
 ### Highlighted Projects
 
 **[fbs-standings]** *Java, Spring Boot, PostgreSQL*
