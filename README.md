@@ -7,7 +7,7 @@ I am a Software Engineering Major passionate about building systems of all kinds
 ---
 
 ### What I'm Up To
-- **Currently Working On:** fbs-standings, a full-stack app using Spring Boot, postgreSQL and ReactJS.
+- **Currently Working On:** fbs-standings, a full-stack web application using Spring Boot, postgreSQL and ReactJS.
 - **Learning:** Deepening my knowledge of **SQL**, **Reacts**, **Networks** and **System Design**.
 - **Goals:** Securing a Summer 2026 SWE Internship and contributing to Open Source.
 
