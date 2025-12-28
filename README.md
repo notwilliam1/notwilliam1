@@ -35,6 +35,6 @@ I am a Software Engineering Major passionate about building systems of all kinds
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 - **LinkedIn:** [linkedin.com/in/causeywilliam](https://linkedin.com/in/causeywilliam)
 - **Email:** [causeywilliam0@gmail.com](mailto:causeywilliam0@gmail.com)
