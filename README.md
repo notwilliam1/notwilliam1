@@ -1,6 +1,6 @@
 ## Hi there, I'm William Causey! 👋
 
-### Aspiring Software Engineer | Junior at Kennesaw State University
+### Software Engineering Student | Junior at Kennesaw State University
 
 I am a Software Engineering Major passionate about building systems of all kinds and of course Chipotle.
 
