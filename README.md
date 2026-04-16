@@ -15,13 +15,6 @@ I’m currently a Junior at Kennesaw State, working toward a degree in Software 
 
 ### Highlighted Projects
 
-**[fbs-standings]** *Java, Spring Boot, PostgreSQL*
-- Currently Developing a full stack web application that allows users to see current standings of fbs football teams.
-- Connected a PostgreSQL database for persistent storage.
-- Developed a REST API that serves processed statistics, featuring conference and name based filtering.
-- Still in development with plans to connect with a ReactJS frontend.
-- [https://github.com/notwilliam1/fbs-standings-springboot-application]
-
 **[TerminalDashboard]** *C++, FTXUI*
 - A terminal-based system monitor that displays real-time CPU usage and system stats.
 - Built with FTXUI for the TUI rendering, using Windows APIs to sample CPU load at a set interval.
