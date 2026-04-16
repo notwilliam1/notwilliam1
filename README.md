@@ -1,15 +1,15 @@
-## Hi there, I'm William Causey! 👋
+## Hello, I'm William Causey!
 
 ### Software Engineering Student | Junior at Kennesaw State University
 
-I am a Software Engineering Major passionate about building systems of all kinds and of course Chipotle.
+I’m currently a Junior at Kennesaw State, working toward a degree in Software Engineering. While I spend plenty of time in the classroom, my real drive comes from building tools that I enjoy and find useful.
 
 ---
 
 ### What I'm Up To
-- **Currently Working On:** fbs-standings, a full-stack web application using Spring Boot, postgreSQL and ReactJS.
-- **Learning:** Deepening my knowledge of **SQL**, **Reacts**, **Networks** and **System Design**.
-- **Goals:** Securing a Summer 2026 SWE Internship and contributing to Open Source.
+- **Currently Working On:** TerminalDashboard, a C++ terminal-based system monitor built with FTXUI, displaying real-time CPU usage and system stats.
+- **Learning:** Getting deeper into C++ and systems programming while keeping my Java and Python sharp. Learning data structures, databases, and system design the hard way, by building things.
+- **Goals:** Hunting for a Fall 2026 SWE internship
 
 ---
 
@@ -22,10 +22,9 @@ I am a Software Engineering Major passionate about building systems of all kinds
 - Still in development with plans to connect with a ReactJS frontend.
 - [https://github.com/notwilliam1/fbs-standings-springboot-application]
 
-**[Data Ingestion Service]** *Python, Requests, JSON/CSV I/O, OS*
-- Created a Python based ETL to consume RESTful API data and transform nested JSON into structured CSVs.
-- This was used for the *fbs-standings* project above, managing data persistence with PostgreSQL.
-- [https://github.com/notwilliam1/College-Football-API-scraper]
+**[TerminalDashboard]** *C++, FTXUI*
+- A terminal-based system monitor that displays real-time CPU usage and system stats.
+- Built with FTXUI for the TUI rendering, using Windows APIs to sample CPU load at a set interval.
 
 **[8-s_draft_discord_bot]** *Python, discord.py*
 - Built a discord bot that allows for users to draft teams for 4v4 competitive matches while in the same voice channel.
