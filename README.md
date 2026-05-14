@@ -6,14 +6,18 @@ I’m currently a Junior at Kennesaw State, working toward a degree in Software 
 
 ---
 
-### What I'm Up To
-- **Currently Working On:** TerminalDashboard, a C++ terminal-based system monitor built with FTXUI, displaying real-time CPU usage and system stats.
-- **Learning:** Getting deeper into C++ and systems programming while keeping my Java and Python sharp. Learning data structures, databases, and system design the hard way, by building things.
-- **Goals:** Hunting for a Fall 2026 SWE internship
-
----
-
 ### Highlighted Projects
+**[rag-pipeline]** *AWS Lambda, S3, DynamoDB, Pinecone, OpenAI, Supabase, Vite*
+- A multi-tenant RAG SaaS application using AWS Lambda, S3, and DynamoDB,
+implementing automated PDF text extraction, chunking, and OpenAI vector embeddings via Pinecone for semantic
+document retrieval.
+- Token-based authentication with Supabase Auth using API-gateway-managed keys with instant
+revocation and audit logging, enforcing per-user data isolation across S3, DynamoDB, and Pinecone vector
+metadata to prevent cross-tenant data exposure
+- full-stack responsive frontend using Vite and JavaScript featuring real-time streaming LLM responses,
+drag-and-drop PDF upload, and document filtering, deployed on Vercel with CI/CD via GitHub
+- Live Demo: [https://rag-pipeline-frontend.vercel.app/]
+
 
 **[TerminalDashboard]** *C++, FTXUI*
 - A terminal-based system monitor that displays real-time CPU usage and system stats.
